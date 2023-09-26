@@ -19,7 +19,8 @@
 2. Скачайте [FRONT](https://github.com/netology-code/jd-homeworks/tree/master/diploma/netology-diplom-frontend) (JavaScript).
 3. Запустите собранный контейнер lifedisk в Docker.
 4. Перейдите в папку FRONT приложения и все команды для запуска выполняйте из неё.
-5. Следуя описанию README.md FRONT проекта, запустите nodejs-приложение (`npm install`, `npm run serve`).  
+5. Следуя описанию README.md FRONT проекта, запустите nodejs-приложение (`npm install`, `npm run serve`).
+6. Для авторизации используйте внёсенный в базу логин и пароль TestUser 1234  
 ## В разработке были задействованы:
 *Java 17  
 Spring boot  
