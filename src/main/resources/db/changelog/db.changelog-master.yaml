@@ -1,0 +1,25 @@
+databaseChangeLog:
+  - include:
+      file: changeset/users.sql
+      relativeToChangeLogFile: true
+  - include:
+      file: changeset/roles.sql
+      relativeToChangeLogFile: true
+  - include:
+      file: changeset/users_roles.sql
+      relativeToChangeLogFile: true
+  - include:
+      file: changeset/insert_roles.sql
+      relativeToChangeLogFile: true
+  - include:
+      file: changeset/insert_users.sql
+      relativeToChangeLogFile: true
+  - include:
+      file: changeset/insert_users_roles.sql
+      relativeToChangeLogFile: true
+  - include:
+      file: changeset/file_info.sql
+      relativeToChangeLogFile: true
+  - include:
+      file: changeset/users_token.sql
+      relativeToChangeLogFile: true
