@@ -32,4 +32,4 @@ Postman
 IntelliJ IDEA  
 и др.* 
 ## Обратная связь  
-*Буду признателен вашим замечаниям, вопросам и пожеланиям: связь со мной в Discord **ilia_t. или https://t.me/Ilia_turkovskiy***
+Буду признателен вашим замечаниям, вопросам и пожеланиям: связь со мной в Discord **ilia_t.** или **https://t.me/Ilia_turkovskiy**
