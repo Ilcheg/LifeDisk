@@ -16,7 +16,7 @@
 Предусмотрен запуск сервиса через Docker. Используйте docker-compose.yml файл в корне проекта для сборки контейнера сервера и базы данных.
 ## Запуск LifeDisk и FRONT
 1. Установите nodejs (версия не ниже 19.7.0) на компьютер, следуя [инструкции](https://nodejs.org/ru/download/current/).
-2. Скачайте [FRONT](./netology-diplom-frontend) (JavaScript).
+2. Скачайте [FRONT](https://github.com/netology-code/jd-homeworks/tree/master/diploma/netology-diplom-frontend) (JavaScript).
 3. Запустите собранный контейнер lifedisk в Docker.
 4. Перейдите в папку FRONT приложения и все команды для запуска выполняйте из неё.
 5. Следуя описанию README.md FRONT проекта, запустите nodejs-приложение (`npm install`, `npm run serve`).  
